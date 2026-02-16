@@ -1,0 +1,4 @@
+polygon-api-client
+torch
+pandas
+numpy
